@@ -114,3 +114,5 @@ list.addEventListener("click", (e) => {
     if (e.target.matches(".fa-pen-to-square"))
         editItem(e.target.parentNode.parentNode);
 });
+
+console.log("new-featrue");
